@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/AshStill/ALWheelView"
-  s.screenshots  = "https://github.com/AshStill/ALWheelView/blob/master/screenshot.gif"
+  s.screenshots  = "https://raw.githubusercontent.com/AshStill/ALWheelView/master/screenshot.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
