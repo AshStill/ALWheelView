@@ -1,4 +1,8 @@
 # ALWheelView
+[![CocoaPods](https://img.shields.io/cocoapods/l/ALWheelView.svg)](https://raw.githubusercontent.com/AshStill/ALWheelView/master/README.md)&nbsp;
+[![CocoaPods](https://img.shields.io/cocoapods/v/ALWheelView.svg)](http://cocoapods.org/?q=ALWheelView)&nbsp;
+[![CocoaPods](https://img.shields.io/cocoapods/p/ALWheelView.svg)](http://cocoapods.org/?q=ALWheelView)&nbsp;
+[![Support](https://img.shields.io/badge/support-iOS%207%2B-blue.svg)]()&nbsp;
 
 A WheelView based on UICollectionView.
 * Customize View as using collectionView
@@ -7,6 +11,9 @@ A WheelView based on UICollectionView.
 * Infinite loop
 
 ![image](https://github.com/AshStill/ALWheelView/blob/master/screenshot.gif)
+
+## Pod
+    pod 'ALWheelView'
 
 ## Usage
 #### init view and assign the delegate
