@@ -6,6 +6,8 @@ A WheelView based on UICollectionView.
 * Customize radius/size/scale
 * Infinite loop
 
+![image](https://github.com/AshStill/ALWheelView/blob/master/screenshot.gif)
+
 ## Usage
 #### init view and assign the delegate
      - (ALWheelView *)wheelView
