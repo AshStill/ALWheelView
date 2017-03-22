@@ -37,7 +37,7 @@
     [super layoutSubviews];
     self.collectionView.frame = self.bounds;
     if (self.collectionView.contentOffset.x == 0 &&  self.totalCount) {
-        [self.collectionView scrollToItemAtIndexPath:[NSIndexPath indexPathForItem:self.totalCount / 2 inSection:0] atScrollPosition:UICollectionViewScrollPositionCenteredHorizontally animated:NO];
+        [self.collectionView scrollToItemAtIndexPath:[NSIndexPath indexPathForItem:(self.totalCount / 2 - self.originCount / 2) inSection:0] atScrollPosition:UICollectionViewScrollPositionCenteredHorizontally animated:NO];
     }
     
 }

@@ -8,12 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-typedef NS_ENUM(NSUInteger, ALWheelViewDirection) {
-    ALWheelViewDirectionClockwise,
-    ALWheelViewDirectionAnticlockwise,
-    ALWheelViewDirectionNono
-};
-
 @class ALWheelView;
 @protocol ALWheelViewDelegate <NSObject>
 
